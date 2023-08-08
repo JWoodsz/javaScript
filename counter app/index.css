@@ -1,0 +1,39 @@
+body {
+    background-image: url(c:\Users\6412758\Desktop\cable.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+H1 {
+    margin-top: 11px;
+    margin-bottom: 10px
+}
+
+H2 {
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: pink;
+    font-weight: bold;
+    margin-bottom: 6px;
+    margin-radius: 7px;
+
+}
+
+#increment-btn{
+    background: red;
+
+}
+
+#save-btn {
+    background: purple;
+}
